@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="150"
+   viewBox="0 0 39.6875 39.6875"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\admin\Desktop\ryanhughes.png"
+   inkscape:export-xdpi="105.85188"
+   inkscape:export-ydpi="105.85188"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ryanhughes.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4281275"
+     inkscape:cx="-64.310501"
+     inkscape:cy="154.28537"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="false"
+     inkscape:snap-global="true"
+     inkscape:snap-others="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-257.3125)">
+    <rect
+       style="fill:none;stroke:none;stroke-width:3.18331933;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1370"
+       width="36.504181"
+       height="36.504181"
+       x="1.5916594"
+       y="258.90417" />
+    <g
+       aria-label="RH"
+       transform="scale(0.98172402,1.0186162)"
+       style="font-style:normal;font-weight:normal;font-size:36.97934341px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19260074"
+       id="text1368">
+      <path
+         d="m 14.726331,272.8403 q 1.408393,0.36113 2.40149,1.37228 0.993098,0.9931 2.473716,3.99045 l 3.665433,7.36698 h -3.918221 l -3.214025,-6.80724 q -1.390337,-2.90706 -2.509829,-3.73765 -1.101435,-0.84865 -2.889011,-0.84865 H 7.2510143 v 11.39354 H 3.5855813 V 258.61192 H 11.09701 q 4.441855,0 6.807233,2.00425 2.365378,2.00425 2.365378,5.79608 0,2.67234 -1.462562,4.36963 -1.444506,1.67924 -4.080728,2.05842 z M 7.2510143,261.60927 v 9.56985 h 3.9904467 q 2.618166,0 3.900165,-1.17366 1.281999,-1.17366 1.281999,-3.59321 0,-2.32926 -1.37228,-3.55709 -1.354224,-1.24589 -3.954335,-1.24589 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:-6.19789076px;fill:#ffffff;stroke-width:0.19260074"
+         id="path1372" />
+      <path
+         d="m 19.524738,258.61192 h 3.665433 v 11.05047 h 9.985145 v -11.05047 h 3.665433 v 26.95809 h -3.665433 v -12.83805 h -9.985145 v 12.83805 h -3.665433 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:-6.19789076px;fill:#ffffff;stroke-width:0.19260074"
+         id="path1374" />
+    </g>
+  </g>
+</svg>
