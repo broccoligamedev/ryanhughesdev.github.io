@@ -3,41 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/mysecondpost-copy-2/</loc>
-    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/mysecondpost-copy-3/</loc>
-    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/mysecondpost-copy-4/</loc>
-    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/mysecondpost-copy-8/</loc>
-    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/mysecondpost-copy-9/</loc>
-    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/mysecondpost-copy/</loc>
-    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/mysecondpost/</loc>
-    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/posts/</loc>
     <lastmod>2019-10-05T16:50:42-04:00</lastmod>
   </url>
@@ -48,7 +13,22 @@
   </url>
   
   <url>
-    <loc>http://example.org/posts/myfirstpost/</loc>
+    <loc>http://example.org/posts/test-copy-2/</loc>
+    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/test-copy-3/</loc>
+    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/test-copy/</loc>
+    <lastmod>2019-10-05T16:50:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/test/</loc>
     <lastmod>2019-10-05T16:50:42-04:00</lastmod>
   </url>
   

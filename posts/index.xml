@@ -12,75 +12,39 @@
     
     
     <item>
-      <title>Did fat make us fat?</title>
-      <link>http://example.org/posts/mysecondpost-copy-2/</link>
+      <title>Test Post</title>
+      <link>http://example.org/posts/test-copy-2/</link>
       <pubDate>Sat, 05 Oct 2019 16:50:42 -0400</pubDate>
       
-      <guid>http://example.org/posts/mysecondpost-copy-2/</guid>
-      <description></description>
+      <guid>http://example.org/posts/test-copy-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus turpis convallis ante imperdiet, in viverra sapien posuere. Sed mattis aliquet faucibus. Maecenas viverra ornare turpis eu egestas. Morbi efficitur sodales risus quis viverra. Donec fringilla elit lacus, ac dignissim purus sodales sit amet. Suspendisse turpis arcu, interdum nec tristique in, placerat laoreet lectus. Nunc et libero at lacus aliquet dignissim. Quisque egestas erat non ante feugiat, tincidunt elementum risus placerat.</description>
     </item>
     
     <item>
-      <title>Did fat make us fat?</title>
-      <link>http://example.org/posts/mysecondpost-copy-3/</link>
+      <title>Test Post</title>
+      <link>http://example.org/posts/test-copy-3/</link>
       <pubDate>Sat, 05 Oct 2019 16:50:42 -0400</pubDate>
       
-      <guid>http://example.org/posts/mysecondpost-copy-3/</guid>
-      <description></description>
+      <guid>http://example.org/posts/test-copy-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus turpis convallis ante imperdiet, in viverra sapien posuere. Sed mattis aliquet faucibus. Maecenas viverra ornare turpis eu egestas. Morbi efficitur sodales risus quis viverra. Donec fringilla elit lacus, ac dignissim purus sodales sit amet. Suspendisse turpis arcu, interdum nec tristique in, placerat laoreet lectus. Nunc et libero at lacus aliquet dignissim. Quisque egestas erat non ante feugiat, tincidunt elementum risus placerat.</description>
     </item>
     
     <item>
-      <title>Did fat make us fat?</title>
-      <link>http://example.org/posts/mysecondpost-copy-4/</link>
+      <title>Test Post</title>
+      <link>http://example.org/posts/test-copy/</link>
       <pubDate>Sat, 05 Oct 2019 16:50:42 -0400</pubDate>
       
-      <guid>http://example.org/posts/mysecondpost-copy-4/</guid>
-      <description></description>
+      <guid>http://example.org/posts/test-copy/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus turpis convallis ante imperdiet, in viverra sapien posuere. Sed mattis aliquet faucibus. Maecenas viverra ornare turpis eu egestas. Morbi efficitur sodales risus quis viverra. Donec fringilla elit lacus, ac dignissim purus sodales sit amet. Suspendisse turpis arcu, interdum nec tristique in, placerat laoreet lectus. Nunc et libero at lacus aliquet dignissim. Quisque egestas erat non ante feugiat, tincidunt elementum risus placerat.</description>
     </item>
     
     <item>
-      <title>Did fat make us fat?</title>
-      <link>http://example.org/posts/mysecondpost-copy-8/</link>
+      <title>Test Post</title>
+      <link>http://example.org/posts/test/</link>
       <pubDate>Sat, 05 Oct 2019 16:50:42 -0400</pubDate>
       
-      <guid>http://example.org/posts/mysecondpost-copy-8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Did fat make us fat?</title>
-      <link>http://example.org/posts/mysecondpost-copy-9/</link>
-      <pubDate>Sat, 05 Oct 2019 16:50:42 -0400</pubDate>
-      
-      <guid>http://example.org/posts/mysecondpost-copy-9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Did fat make us fat?</title>
-      <link>http://example.org/posts/mysecondpost-copy/</link>
-      <pubDate>Sat, 05 Oct 2019 16:50:42 -0400</pubDate>
-      
-      <guid>http://example.org/posts/mysecondpost-copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Did fat make us fat?</title>
-      <link>http://example.org/posts/mysecondpost/</link>
-      <pubDate>Sat, 05 Oct 2019 16:50:42 -0400</pubDate>
-      
-      <guid>http://example.org/posts/mysecondpost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thoughts on Type Systems</title>
-      <link>http://example.org/posts/myfirstpost/</link>
-      <pubDate>Sat, 05 Oct 2019 16:50:42 -0400</pubDate>
-      
-      <guid>http://example.org/posts/myfirstpost/</guid>
-      <description></description>
+      <guid>http://example.org/posts/test/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus turpis convallis ante imperdiet, in viverra sapien posuere. Sed mattis aliquet faucibus. Maecenas viverra ornare turpis eu egestas. Morbi efficitur sodales risus quis viverra. Donec fringilla elit lacus, ac dignissim purus sodales sit amet. Suspendisse turpis arcu, interdum nec tristique in, placerat laoreet lectus. Nunc et libero at lacus aliquet dignissim. Quisque egestas erat non ante feugiat, tincidunt elementum risus placerat.</description>
     </item>
     
   </channel>
